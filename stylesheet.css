@@ -1,0 +1,5 @@
+/* Iskra drop-down — okno jest aplikacją GTK, wtyczka tylko układa je jak ddterm. */
+
+.iskra-panel-hidden {
+    opacity: 0.45;
+}

@@ -1,0 +1,10 @@
+{
+  "uuid": "iskra-dropdown@gorian",
+  "name": "Iskra drop-down",
+  "description": "Drop-down Iskry jak ddterm/Guake: skrót zjeżdża okno z góry, drugi skrót gasi model LLM i zwalnia VRAM.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "session-modes": ["user"],
+  "settings-schema": "org.gnome.shell.extensions.iskra-dropdown",
+  "url": "https://github.com/GorianWaco/iskra-dropdown",
+  "version": 6
+}
